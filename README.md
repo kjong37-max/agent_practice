@@ -48,3 +48,5 @@ Git 사용자의 하루:
 오후: `git commit -m "fix again"`
 저녁: `git commit -m "please work"`
 자정: `git commit -m "why"`
+
+WOW 친구들. 빡빡이 아저씨야
